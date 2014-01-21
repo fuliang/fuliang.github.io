@@ -1,0 +1,39 @@
+---
+layout: post
+title: "test"
+date: 2014-01-21 15:02:56 +0800
+comments: true
+categories: 
+---
+Just a test
+===========
+A second Level Header
+> This is a blockquote
+>
+> This is the second paragraph in the blockquote
+
+Some of these words **are emphasized**
+Some of these words __are emphasized__
+
+* Candy
+* Gum
+* Booze
+* Candy
+
+This
+
++ Candy
++ Gum
++ Booze
+
+and this
+
+- Candy
+- Gum
+- Booze.
+
+1. Red
+2. Green
+3. Blue
+
+This is an [baidu](http://wwww.baidu.com).
